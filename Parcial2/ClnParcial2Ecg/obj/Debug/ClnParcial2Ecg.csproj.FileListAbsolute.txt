@@ -1,0 +1,15 @@
+D:\457\p2_Elides_Cerezo\Parcial2\ClnParcial2Ecg\bin\Debug\ClnParcial2Ecg.dll.config
+D:\457\p2_Elides_Cerezo\Parcial2\ClnParcial2Ecg\bin\Debug\ClnParcial2Ecg.dll
+D:\457\p2_Elides_Cerezo\Parcial2\ClnParcial2Ecg\bin\Debug\ClnParcial2Ecg.pdb
+D:\457\p2_Elides_Cerezo\Parcial2\ClnParcial2Ecg\bin\Debug\CadParcial2Ecg.dll
+D:\457\p2_Elides_Cerezo\Parcial2\ClnParcial2Ecg\bin\Debug\EntityFramework.dll
+D:\457\p2_Elides_Cerezo\Parcial2\ClnParcial2Ecg\bin\Debug\EntityFramework.SqlServer.dll
+D:\457\p2_Elides_Cerezo\Parcial2\ClnParcial2Ecg\bin\Debug\CadParcial2Ecg.pdb
+D:\457\p2_Elides_Cerezo\Parcial2\ClnParcial2Ecg\bin\Debug\CadParcial2Ecg.dll.config
+D:\457\p2_Elides_Cerezo\Parcial2\ClnParcial2Ecg\bin\Debug\EntityFramework.xml
+D:\457\p2_Elides_Cerezo\Parcial2\ClnParcial2Ecg\bin\Debug\EntityFramework.SqlServer.xml
+D:\457\p2_Elides_Cerezo\Parcial2\ClnParcial2Ecg\obj\Debug\ClnParcial2Ecg.csproj.AssemblyReference.cache
+D:\457\p2_Elides_Cerezo\Parcial2\ClnParcial2Ecg\obj\Debug\ClnParcial2Ecg.csproj.CoreCompileInputs.cache
+D:\457\p2_Elides_Cerezo\Parcial2\ClnParcial2Ecg\obj\Debug\ClnParci.BBCA86CE.Up2Date
+D:\457\p2_Elides_Cerezo\Parcial2\ClnParcial2Ecg\obj\Debug\ClnParcial2Ecg.dll
+D:\457\p2_Elides_Cerezo\Parcial2\ClnParcial2Ecg\obj\Debug\ClnParcial2Ecg.pdb

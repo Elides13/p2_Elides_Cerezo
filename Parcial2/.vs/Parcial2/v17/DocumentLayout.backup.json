@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\p2_Elides_Cerezo\\Parcial2\\",
+  "WorkspaceRootPath": "D:\\457\\p2_Elides_Cerezo\\Parcial2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F18BB4C-BD6D-4287-B22E-B9417DF9188A}|ClnParcial2Ecg\\ClnParcial2Ecg.csproj|d:\\p2_elides_cerezo\\parcial2\\clnparcial2ecg\\seriecln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F18BB4C-BD6D-4287-B22E-B9417DF9188A}|ClnParcial2Ecg\\ClnParcial2Ecg.csproj|solutionrelative:clnparcial2ecg\\seriecln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D114069A-1D2A-4682-B21E-54BC6E991BA1}|CpParcial2Ecg\\CpParcial2Ecg.csproj|d:\\457\\p2_elides_cerezo\\parcial2\\cpparcial2ecg\\frmserie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D114069A-1D2A-4682-B21E-54BC6E991BA1}|CpParcial2Ecg\\CpParcial2Ecg.csproj|solutionrelative:cpparcial2ecg\\frmserie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SerieCln.cs",
-              "DocumentMoniker": "D:\\p2_Elides_Cerezo\\Parcial2\\ClnParcial2Ecg\\SerieCln.cs",
-              "RelativeDocumentMoniker": "ClnParcial2Ecg\\SerieCln.cs",
-              "ToolTip": "D:\\p2_Elides_Cerezo\\Parcial2\\ClnParcial2Ecg\\SerieCln.cs",
-              "RelativeToolTip": "ClnParcial2Ecg\\SerieCln.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAqAAAAAAAAAA==",
+              "Title": "FrmSerie.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\457\\p2_Elides_Cerezo\\Parcial2\\CpParcial2Ecg\\FrmSerie.cs",
+              "RelativeDocumentMoniker": "CpParcial2Ecg\\FrmSerie.cs",
+              "ToolTip": "D:\\457\\p2_Elides_Cerezo\\Parcial2\\CpParcial2Ecg\\FrmSerie.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CpParcial2Ecg\\FrmSerie.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T17:09:02.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T18:12:12.911Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
