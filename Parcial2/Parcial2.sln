@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadParcial2Ecg", "CadParcia
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClnParcial2Ecg", "ClnParcial2Ecg\ClnParcial2Ecg.csproj", "{3F18BB4C-BD6D-4287-B22E-B9417DF9188A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CpParcial2Ecg", "CpParcial2Ecg\CpParcial2Ecg.csproj", "{D114069A-1D2A-4682-B21E-54BC6E991BA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3F18BB4C-BD6D-4287-B22E-B9417DF9188A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F18BB4C-BD6D-4287-B22E-B9417DF9188A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F18BB4C-BD6D-4287-B22E-B9417DF9188A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D114069A-1D2A-4682-B21E-54BC6E991BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D114069A-1D2A-4682-B21E-54BC6E991BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D114069A-1D2A-4682-B21E-54BC6E991BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D114069A-1D2A-4682-B21E-54BC6E991BA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
