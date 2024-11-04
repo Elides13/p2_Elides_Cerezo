@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadParcial2Ecg", "CadParcial2Ecg\CadParcial2Ecg.csproj", "{20B2E3F7-BF0A-459F-AF25-02438BCFDCDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClnParcial2Ecg", "ClnParcial2Ecg\ClnParcial2Ecg.csproj", "{3F18BB4C-BD6D-4287-B22E-B9417DF9188A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{20B2E3F7-BF0A-459F-AF25-02438BCFDCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20B2E3F7-BF0A-459F-AF25-02438BCFDCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20B2E3F7-BF0A-459F-AF25-02438BCFDCDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F18BB4C-BD6D-4287-B22E-B9417DF9188A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F18BB4C-BD6D-4287-B22E-B9417DF9188A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F18BB4C-BD6D-4287-B22E-B9417DF9188A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F18BB4C-BD6D-4287-B22E-B9417DF9188A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
